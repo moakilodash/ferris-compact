@@ -1,0 +1,303 @@
+ERC report (2026-02-25T14:26:30+0100, Encoding UTF8)
+
+***** Sheet /
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5000 mils, 2850 mils): Symbol J1 Pin A [Passive, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(6250 mils, 1600 mils): Symbol U1 Pin 3 [GND, Power input, Line]
+[pin_to_pin]: Pins of type Power output and Power output are connected
+    ; error
+    @(7650 mils, 1400 mils): Symbol U1 Pin 24 [RAW, Power output, Line]
+    @(7600 mils, 4300 mils): Symbol U2 Pin 24 [RAW, Power output, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(7650 mils, 1700 mils): Symbol U1 Pin 21 [VCC, Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 6750 mils): Symbol J2 Pin A [Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(8800 mils, 1700 mils): Symbol SW_POWER1 Pin 1 [A, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(8850 mils, 4450 mils): Symbol SW_POWERR1 Pin 1 [A, Passive, Line]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(1100 mils, 1150 mils): Symbol SW2 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(1100 mils, 1150 mils): Symbol SW2 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(1750 mils, 1150 mils): Symbol SW3 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(1750 mils, 1150 mils): Symbol SW3 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(1100 mils, 2000 mils): Symbol SW8 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(1100 mils, 2000 mils): Symbol SW8 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(1750 mils, 2000 mils): Symbol SW9 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(1750 mils, 2000 mils): Symbol SW9 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(2400 mils, 1150 mils): Symbol SW4 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(2400 mils, 1150 mils): Symbol SW4 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(1050 mils, 2750 mils): Symbol SW14 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(1050 mils, 2750 mils): Symbol SW14 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(2400 mils, 2000 mils): Symbol SW10 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(2400 mils, 2000 mils): Symbol SW10 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(3000 mils, 1150 mils): Symbol SW5 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(3000 mils, 1150 mils): Symbol SW5 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(1700 mils, 2750 mils): Symbol SW15 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(1700 mils, 2750 mils): Symbol SW15 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(3000 mils, 2000 mils): Symbol SW11 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(3000 mils, 2000 mils): Symbol SW11 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(2350 mils, 2750 mils): Symbol SW16 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(2350 mils, 2750 mils): Symbol SW16 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(3650 mils, 1150 mils): Symbol SW6 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(3650 mils, 1150 mils): Symbol SW6 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(2950 mils, 2750 mils): Symbol SW17 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(2950 mils, 2750 mils): Symbol SW17 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(3650 mils, 2000 mils): Symbol SW12 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(3650 mils, 2000 mils): Symbol SW12 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(3600 mils, 2750 mils): Symbol SW18 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(3600 mils, 2750 mils): Symbol SW18 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(3000 mils, 3600 mils): Symbol SW20 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(3000 mils, 3600 mils): Symbol SW20 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(1100 mils, 4700 mils): Symbol SW2_r1 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(1100 mils, 4700 mils): Symbol SW2_r1 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(1750 mils, 4700 mils): Symbol SW3_r1 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(1750 mils, 4700 mils): Symbol SW3_r1 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'kbd'.
+    ; warning
+    @(4800 mils, 1550 mils): Symbol RSW1 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(4800 mils, 1550 mils): Symbol RSW1 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(3550 mils, 3600 mils): Symbol SW21 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(3550 mils, 3600 mils): Symbol SW21 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(2400 mils, 4700 mils): Symbol SW4_r1 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(2400 mils, 4700 mils): Symbol SW4_r1 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'kbd'.
+    ; warning
+    @(4800 mils, 2650 mils): Symbol J1 [AudioJack4dpb-tokas_bp]
+[lib_symbol_mismatch]: Symbol 'AudioJack4dpb-tokas_bp' doesn't match copy in library 'half-swept-rescue'
+    ; warning
+    @(4800 mils, 2650 mils): Symbol J1 [AudioJack4dpb-tokas_bp]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(3000 mils, 4700 mils): Symbol SW5_r1 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(3000 mils, 4700 mils): Symbol SW5_r1 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(1100 mils, 5550 mils): Symbol SW7_r1 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(1100 mils, 5550 mils): Symbol SW7_r1 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(1750 mils, 5550 mils): Symbol SW8_r1 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(1750 mils, 5550 mils): Symbol SW8_r1 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(3650 mils, 4700 mils): Symbol SW6_r1 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(3650 mils, 4700 mils): Symbol SW6_r1 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(2400 mils, 5550 mils): Symbol SW9_r1 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(2400 mils, 5550 mils): Symbol SW9_r1 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(3000 mils, 5550 mils): Symbol SW10_r1 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(3000 mils, 5550 mils): Symbol SW10_r1 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(1050 mils, 6300 mils): Symbol SW12_r1 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(1050 mils, 6300 mils): Symbol SW12_r1 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(1700 mils, 6300 mils): Symbol SW13_r1 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(1700 mils, 6300 mils): Symbol SW13_r1 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(3650 mils, 5550 mils): Symbol SW11_r1 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(3650 mils, 5550 mils): Symbol SW11_r1 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(2350 mils, 6300 mils): Symbol SW14_r1 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(2350 mils, 6300 mils): Symbol SW14_r1 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(2950 mils, 6300 mils): Symbol SW15_r1 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(2950 mils, 6300 mils): Symbol SW15_r1 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(3600 mils, 6300 mils): Symbol SW16_r1 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(3600 mils, 6300 mils): Symbol SW16_r1 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'kbd'.
+    ; warning
+    @(6950 mils, 2150 mils): Symbol U1 [ProMicro-kbd-bigblackpill-34key-re...]
+[lib_symbol_mismatch]: Symbol 'ProMicro-kbd-bigblackpill-34key-rescue-sweepv2-rescue' doesn't match copy in library 'half-swept-rescue'
+    ; warning
+    @(6950 mils, 2150 mils): Symbol U1 [ProMicro-kbd-bigblackpill-34key-re...]
+[footprint_link_issues]: The current configuration does not include the footprint library 'kbd'.
+    ; warning
+    @(4850 mils, 5450 mils): Symbol RSW2 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(4850 mils, 5450 mils): Symbol RSW2 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(3000 mils, 7150 mils): Symbol SW17_r1 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(3000 mils, 7150 mils): Symbol SW17_r1 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(3550 mils, 7150 mils): Symbol SW18_r1 [SW_Push]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(3550 mils, 7150 mils): Symbol SW18_r1 [SW_Push]
+[footprint_link_issues]: The current configuration does not include the footprint library 'kbd'.
+    ; warning
+    @(4850 mils, 6550 mils): Symbol J2 [AudioJack4dpb-tokas_bp]
+[lib_symbol_mismatch]: Symbol 'AudioJack4dpb-tokas_bp' doesn't match copy in library 'half-swept-rescue'
+    ; warning
+    @(4850 mils, 6550 mils): Symbol J2 [AudioJack4dpb-tokas_bp]
+[footprint_link_issues]: The current configuration does not include the footprint library 'kbd'.
+    ; warning
+    @(6900 mils, 5050 mils): Symbol U2 [ProMicro-kbd-bigblackpill-34key-re...]
+[lib_symbol_mismatch]: Symbol 'ProMicro-kbd-bigblackpill-34key-rescue-sweepv2-rescue' doesn't match copy in library 'half-swept-rescue'
+    ; warning
+    @(6900 mils, 5050 mils): Symbol U2 [ProMicro-kbd-bigblackpill-34key-re...]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(8600 mils, 1800 mils): Symbol SW_POWER1 [SW_SPDT]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(8600 mils, 1800 mils): Symbol SW_POWER1 [SW_SPDT]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Kailh'.
+    ; warning
+    @(8650 mils, 4550 mils): Symbol SW_POWERR1 [SW_SPDT]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Switch'
+    ; warning
+    @(8650 mils, 4550 mils): Symbol SW_POWERR1 [SW_SPDT]
+[footprint_link_issues]: The current configuration does not include the footprint library 'kbd'.
+    ; warning
+    @(9700 mils, 1550 mils): Symbol Bat+1 [MountingHole_Pad]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Mechanical'
+    ; warning
+    @(9700 mils, 1550 mils): Symbol Bat+1 [MountingHole_Pad]
+[footprint_link_issues]: The current configuration does not include the footprint library 'kbd'.
+    ; warning
+    @(9700 mils, 1950 mils): Symbol BatGND1 [MountingHole_Pad]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Mechanical'
+    ; warning
+    @(9700 mils, 1950 mils): Symbol BatGND1 [MountingHole_Pad]
+[footprint_link_issues]: The current configuration does not include the footprint library 'kbd'.
+    ; warning
+    @(9750 mils, 4300 mils): Symbol Bat+r1 [MountingHole_Pad]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Mechanical'
+    ; warning
+    @(9750 mils, 4300 mils): Symbol Bat+r1 [MountingHole_Pad]
+[footprint_link_issues]: The current configuration does not include the footprint library 'kbd'.
+    ; warning
+    @(9750 mils, 4700 mils): Symbol BatGND4 [MountingHole_Pad]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Mechanical'
+    ; warning
+    @(9750 mils, 4700 mils): Symbol BatGND4 [MountingHole_Pad]
+
+ ** ERC messages: 99  Errors 7  Warnings 92

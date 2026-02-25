@@ -1,0 +1,1512 @@
+** Drc report for half-swept.kicad_pcb **
+** Created on 2026-02-25T14:40:45+0100 **
+
+** Found 396 DRC violations **
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(87.3252 mm, 22.2504 mm): Track [reset] on F.Cu, length 0.7934 mm
+    @(83.1000 mm, 22.2000 mm): Pad 2 [<no net>] of RSW2 on B.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(87.3252 mm, 22.2504 mm): Via [reset] on F.Cu - B.Cu
+    @(83.1000 mm, 22.2000 mm): Pad 2 [<no net>] of RSW2 on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(87.3252 mm, 22.2504 mm): Via [reset] on F.Cu - B.Cu
+    @(83.1000 mm, 22.2000 mm): Pad 1 [<no net>] of RSW2 on F.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(126.4920 mm, 49.0220 mm): PTH pad [<no net>] of U1
+    @(126.4920 mm, 49.0220 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(126.4920 mm, 49.0220 mm): PTH pad [<no net>] of U1
+    @(126.4920 mm, 49.0220 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 49.0220 mm): Pad [<no net>] of U1 on F.Cu
+    @(126.4920 mm, 49.0220 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 49.0220 mm): Pad [<no net>] of U1 on F.Cu
+    @(124.7140 mm, 49.0220 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 49.0220 mm): Pad [<no net>] of U1 on B.Cu
+    @(124.7140 mm, 49.0220 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 49.0220 mm): Pad [<no net>] of U1 on B.Cu
+    @(126.4920 mm, 49.0220 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 49.0220 mm): Pad [<no net>] of U1 on B.Cu
+    @(126.4920 mm, 49.0220 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 48.5140 mm): Polygon of U1 on F.Mask
+    @(112.9215 mm, 50.1465 mm): Track [Switch10] on F.Cu, length 1.5903 mm
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 49.0220 mm): Pad [<no net>] of U1 on F.Cu
+    @(111.2520 mm, 49.0220 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 49.0220 mm): Pad [<no net>] of U1 on F.Cu
+    @(111.2520 mm, 49.0220 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 49.0220 mm): Pad [<no net>] of U1 on F.Cu
+    @(113.0300 mm, 49.0220 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 48.5140 mm): Polygon of U1 on F.Mask
+    @(112.9215 mm, 50.1465 mm): Track [Switch10] on F.Cu, length 1.5903 mm
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 49.0220 mm): Pad [<no net>] of U1 on B.Cu
+    @(113.0300 mm, 49.0220 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 49.0220 mm): Pad [<no net>] of U1 on B.Cu
+    @(111.2520 mm, 49.0220 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(111.2520 mm, 49.0220 mm): PTH pad [<no net>] of U1
+    @(111.2520 mm, 49.0220 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(111.2520 mm, 49.0220 mm): PTH pad [<no net>] of U1
+    @(111.2520 mm, 49.0220 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 51.5620 mm): Pad [<no net>] of U1 on F.Cu
+    @(124.7140 mm, 51.5620 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 51.5620 mm): Pad [<no net>] of U1 on F.Cu
+    @(126.4920 mm, 51.5620 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 51.5620 mm): Pad [<no net>] of U1 on B.Cu
+    @(126.4920 mm, 51.5620 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 51.5620 mm): Pad [<no net>] of U1 on B.Cu
+    @(124.7140 mm, 51.5620 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 51.0540 mm): Polygon of U1 on B.Mask
+    @(114.0460 mm, 51.5620 mm): Track [gnd] on B.Cu, length 2.0018 mm
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 51.5620 mm): Pad [<no net>] of U1 on F.Cu
+    @(113.0300 mm, 51.5620 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 51.5620 mm): Pad [<no net>] of U1 on F.Cu
+    @(111.2520 mm, 51.5620 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 51.5620 mm): Pad [<no net>] of U1 on B.Cu
+    @(113.0300 mm, 51.5620 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 51.5620 mm): Pad [<no net>] of U1 on B.Cu
+    @(111.2520 mm, 51.5620 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 51.0540 mm): Polygon of U1 on B.Mask
+    @(114.0460 mm, 51.5620 mm): Track [gnd] on B.Cu, length 2.0018 mm
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 54.1020 mm): Pad [<no net>] of U1 on F.Cu
+    @(126.4920 mm, 54.1020 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 54.1020 mm): Pad [<no net>] of U1 on F.Cu
+    @(124.7140 mm, 54.1020 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 54.1020 mm): Pad [<no net>] of U1 on B.Cu
+    @(124.7140 mm, 54.1020 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 54.1020 mm): Pad [<no net>] of U1 on B.Cu
+    @(126.4920 mm, 54.1020 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 53.5940 mm): Polygon of U1 on B.Mask
+    @(112.7760 mm, 52.8320 mm): Track [reset] on B.Cu, length 1.7961 mm
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 54.1020 mm): Pad [<no net>] of U1 on F.Cu
+    @(111.2520 mm, 54.1020 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 54.1020 mm): Pad [<no net>] of U1 on F.Cu
+    @(113.0300 mm, 54.1020 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 54.1020 mm): Pad [<no net>] of U1 on B.Cu
+    @(111.2520 mm, 54.1020 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 54.1020 mm): Pad [<no net>] of U1 on B.Cu
+    @(113.0300 mm, 54.1020 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 53.5940 mm): Polygon of U1 on B.Mask
+    @(112.7760 mm, 52.8320 mm): Track [reset] on B.Cu, length 1.7961 mm
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 56.6420 mm): Pad [<no net>] of U1 on F.Cu
+    @(126.4920 mm, 56.6420 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 56.6420 mm): Pad [<no net>] of U1 on F.Cu
+    @(124.7140 mm, 56.6420 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 56.6420 mm): Pad [<no net>] of U1 on B.Cu
+    @(126.4920 mm, 56.6420 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 56.6420 mm): Pad [<no net>] of U1 on B.Cu
+    @(124.7140 mm, 56.6420 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 56.1340 mm): Polygon of U1 on B.Mask
+    @(112.9215 mm, 55.5175 mm): Track [vcc] on B.Cu, length 1.5903 mm
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 56.6420 mm): Pad [<no net>] of U1 on F.Cu
+    @(113.0300 mm, 56.6420 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 56.6420 mm): Pad [<no net>] of U1 on F.Cu
+    @(111.2520 mm, 56.6420 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 56.6420 mm): Pad [<no net>] of U1 on B.Cu
+    @(113.0300 mm, 56.6420 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 56.6420 mm): Pad [<no net>] of U1 on B.Cu
+    @(111.2520 mm, 56.6420 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 56.1340 mm): Polygon of U1 on B.Mask
+    @(112.9215 mm, 55.5175 mm): Track [vcc] on B.Cu, length 1.5903 mm
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 59.1820 mm): Pad [<no net>] of U1 on F.Cu
+    @(126.4920 mm, 59.1820 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 59.1820 mm): Pad [<no net>] of U1 on F.Cu
+    @(124.7140 mm, 59.1820 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 59.1820 mm): Pad [<no net>] of U1 on B.Cu
+    @(124.7140 mm, 59.1820 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 59.1820 mm): Pad [<no net>] of U1 on B.Cu
+    @(126.4920 mm, 59.1820 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 58.6740 mm): Polygon of U1 on F.Mask
+    @(112.6305 mm, 60.5975 mm): Track [Switch11] on F.Cu, length 2.0018 mm
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 58.6740 mm): Polygon of U1 on B.Mask
+    @(112.9215 mm, 58.0575 mm): Track [Switch5] on B.Cu, length 1.5903 mm
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 59.1820 mm): Pad [<no net>] of U1 on F.Cu
+    @(111.2520 mm, 59.1820 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 59.1820 mm): Pad [<no net>] of U1 on F.Cu
+    @(113.0300 mm, 59.1820 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 58.6740 mm): Polygon of U1 on F.Mask
+    @(112.6305 mm, 60.5975 mm): Track [Switch11] on F.Cu, length 2.0018 mm
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 59.1820 mm): Pad [<no net>] of U1 on B.Cu
+    @(113.0300 mm, 59.1820 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 59.1820 mm): Pad [<no net>] of U1 on B.Cu
+    @(111.2520 mm, 59.1820 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 58.6740 mm): Polygon of U1 on B.Mask
+    @(112.9215 mm, 58.0575 mm): Track [Switch5] on B.Cu, length 1.5903 mm
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 61.7220 mm): Pad [<no net>] of U1 on F.Cu
+    @(124.7140 mm, 61.7220 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 61.7220 mm): Pad [<no net>] of U1 on F.Cu
+    @(126.4920 mm, 61.7220 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 61.7220 mm): Pad [<no net>] of U1 on B.Cu
+    @(126.4920 mm, 61.7220 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 61.7220 mm): Pad [<no net>] of U1 on B.Cu
+    @(124.7140 mm, 61.7220 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 61.2140 mm): Polygon of U1 on F.Mask
+    @(112.6305 mm, 63.1375 mm): Track [Switch12] on F.Cu, length 2.0018 mm
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 61.2140 mm): Polygon of U1 on B.Mask
+    @(112.9215 mm, 60.5975 mm): Track [Switch4] on B.Cu, length 1.5903 mm
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 61.7220 mm): Pad [<no net>] of U1 on F.Cu
+    @(113.0300 mm, 61.7220 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 61.7220 mm): Pad [<no net>] of U1 on F.Cu
+    @(111.2520 mm, 61.7220 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 61.2140 mm): Polygon of U1 on F.Mask
+    @(112.6305 mm, 63.1375 mm): Track [Switch12] on F.Cu, length 2.0018 mm
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 61.2140 mm): Polygon of U1 on B.Mask
+    @(112.9215 mm, 60.5975 mm): Track [Switch4] on B.Cu, length 1.5903 mm
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 61.7220 mm): Pad [<no net>] of U1 on B.Cu
+    @(113.0300 mm, 61.7220 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 61.7220 mm): Pad [<no net>] of U1 on B.Cu
+    @(111.2520 mm, 61.7220 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 64.2620 mm): Pad [<no net>] of U1 on F.Cu
+    @(124.7140 mm, 64.2620 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 64.2620 mm): Pad [<no net>] of U1 on F.Cu
+    @(126.4920 mm, 64.2620 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 64.2620 mm): Pad [<no net>] of U1 on B.Cu
+    @(126.4920 mm, 64.2620 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 64.2620 mm): Pad [<no net>] of U1 on B.Cu
+    @(124.7140 mm, 64.2620 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 63.7540 mm): Polygon of U1 on F.Mask
+    @(112.8776 mm, 65.4304 mm): Track [Switch13] on F.Cu, length 1.6524 mm
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 63.7540 mm): Polygon of U1 on B.Mask
+    @(112.9215 mm, 63.1375 mm): Track [Switch3] on B.Cu, length 1.5903 mm
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 64.2620 mm): Pad [<no net>] of U1 on F.Cu
+    @(111.2520 mm, 64.2620 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 63.7540 mm): Polygon of U1 on F.Mask
+    @(112.8776 mm, 65.4304 mm): Track [Switch13] on F.Cu, length 1.6524 mm
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 64.2620 mm): Pad [<no net>] of U1 on F.Cu
+    @(113.0300 mm, 64.2620 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 64.2620 mm): Pad [<no net>] of U1 on B.Cu
+    @(111.2520 mm, 64.2620 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 63.7540 mm): Polygon of U1 on B.Mask
+    @(112.9215 mm, 63.1375 mm): Track [Switch3] on B.Cu, length 1.5903 mm
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 64.2620 mm): Pad [<no net>] of U1 on B.Cu
+    @(113.0300 mm, 64.2620 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 66.8020 mm): Pad [<no net>] of U1 on F.Cu
+    @(124.7140 mm, 66.8020 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 66.8020 mm): Pad [<no net>] of U1 on F.Cu
+    @(126.4920 mm, 66.8020 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 66.8020 mm): Pad [<no net>] of U1 on B.Cu
+    @(126.4920 mm, 66.8020 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 66.8020 mm): Pad [<no net>] of U1 on B.Cu
+    @(124.7140 mm, 66.8020 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 66.2940 mm): Polygon of U1 on F.Mask
+    @(112.7760 mm, 68.0720 mm): Track [Switch14] on F.Cu, length 1.7961 mm
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 66.2940 mm): Polygon of U1 on B.Mask
+    @(112.9215 mm, 65.6775 mm): Track [Switch2] on B.Cu, length 1.5903 mm
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 66.8020 mm): Pad [<no net>] of U1 on F.Cu
+    @(113.0300 mm, 66.8020 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 66.8020 mm): Pad [<no net>] of U1 on F.Cu
+    @(111.2520 mm, 66.8020 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 66.2940 mm): Polygon of U1 on F.Mask
+    @(112.7760 mm, 68.0720 mm): Track [Switch14] on F.Cu, length 1.7961 mm
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 66.8020 mm): Pad [<no net>] of U1 on B.Cu
+    @(111.2520 mm, 66.8020 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 66.2940 mm): Polygon of U1 on B.Mask
+    @(112.9215 mm, 65.6775 mm): Track [Switch2] on B.Cu, length 1.5903 mm
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 66.8020 mm): Pad [<no net>] of U1 on B.Cu
+    @(113.0300 mm, 66.8020 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 69.3420 mm): Pad [<no net>] of U1 on F.Cu
+    @(126.4920 mm, 69.3420 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 69.3420 mm): Pad [<no net>] of U1 on F.Cu
+    @(124.7140 mm, 69.3420 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 69.3420 mm): Pad [<no net>] of U1 on B.Cu
+    @(124.7140 mm, 69.3420 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 69.3420 mm): Pad [<no net>] of U1 on B.Cu
+    @(126.4920 mm, 69.3420 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 68.8340 mm): Polygon of U1 on F.Mask
+    @(112.6305 mm, 70.7575 mm): Track [Switch15] on F.Cu, length 2.0018 mm
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 68.8340 mm): Polygon of U1 on B.Mask
+    @(112.9215 mm, 68.2175 mm): Track [Switch6] on B.Cu, length 1.5903 mm
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 69.3420 mm): Pad [<no net>] of U1 on F.Cu
+    @(113.0300 mm, 69.3420 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 69.3420 mm): Pad [<no net>] of U1 on F.Cu
+    @(111.2520 mm, 69.3420 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 68.8340 mm): Polygon of U1 on F.Mask
+    @(112.6305 mm, 70.7575 mm): Track [Switch15] on F.Cu, length 2.0018 mm
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 69.3420 mm): Pad [<no net>] of U1 on B.Cu
+    @(113.0300 mm, 69.3420 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 69.3420 mm): Pad [<no net>] of U1 on B.Cu
+    @(111.2520 mm, 69.3420 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 68.8340 mm): Polygon of U1 on B.Mask
+    @(112.9215 mm, 68.2175 mm): Track [Switch6] on B.Cu, length 1.5903 mm
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 71.8820 mm): Pad [<no net>] of U1 on F.Cu
+    @(124.7140 mm, 71.8820 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 71.8820 mm): Pad [<no net>] of U1 on F.Cu
+    @(126.4920 mm, 71.8820 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 71.8820 mm): Pad [<no net>] of U1 on B.Cu
+    @(126.4920 mm, 71.8820 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 71.8820 mm): Pad [<no net>] of U1 on B.Cu
+    @(124.7140 mm, 71.8820 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 71.3740 mm): Polygon of U1 on F.Mask
+    @(112.8268 mm, 73.1012 mm): Track [Switch1] on F.Cu, length 1.7242 mm
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 71.3740 mm): Polygon of U1 on B.Mask
+    @(114.0460 mm, 71.8820 mm): Track [Switch7] on B.Cu, length 1.5903 mm
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 71.8820 mm): Pad [<no net>] of U1 on F.Cu
+    @(113.0300 mm, 71.8820 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 71.8820 mm): Pad [<no net>] of U1 on F.Cu
+    @(111.2520 mm, 71.8820 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 71.3740 mm): Polygon of U1 on F.Mask
+    @(112.8268 mm, 73.1012 mm): Track [Switch1] on F.Cu, length 1.7242 mm
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 71.8820 mm): Pad [<no net>] of U1 on B.Cu
+    @(111.2520 mm, 71.8820 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 71.8820 mm): Pad [<no net>] of U1 on B.Cu
+    @(113.0300 mm, 71.8820 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 71.3740 mm): Polygon of U1 on B.Mask
+    @(114.0460 mm, 71.8820 mm): Track [Switch7] on B.Cu, length 1.5903 mm
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 74.4220 mm): Pad [<no net>] of U1 on F.Cu
+    @(126.4920 mm, 74.4220 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 74.4220 mm): Pad [<no net>] of U1 on F.Cu
+    @(124.7140 mm, 74.4220 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 74.4220 mm): Pad [<no net>] of U1 on B.Cu
+    @(124.7140 mm, 74.4220 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 74.4220 mm): Pad [<no net>] of U1 on B.Cu
+    @(126.4920 mm, 74.4220 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 73.9140 mm): Polygon of U1 on F.Mask
+    @(112.9215 mm, 75.5465 mm): Track [Switch16] on F.Cu, length 1.5903 mm
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 73.9140 mm): Polygon of U1 on B.Mask
+    @(112.7760 mm, 73.1520 mm): Track [Switch8] on B.Cu, length 1.7961 mm
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 74.4220 mm): Pad [<no net>] of U1 on F.Cu
+    @(113.0300 mm, 74.4220 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 74.4220 mm): Pad [<no net>] of U1 on F.Cu
+    @(111.2520 mm, 74.4220 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 73.9140 mm): Polygon of U1 on F.Mask
+    @(112.9215 mm, 75.5465 mm): Track [Switch16] on F.Cu, length 1.5903 mm
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 74.4220 mm): Pad [<no net>] of U1 on B.Cu
+    @(113.0300 mm, 74.4220 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 74.4220 mm): Pad [<no net>] of U1 on B.Cu
+    @(111.2520 mm, 74.4220 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 73.9140 mm): Polygon of U1 on B.Mask
+    @(112.7760 mm, 73.1520 mm): Track [Switch8] on B.Cu, length 1.7961 mm
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 76.9620 mm): Pad [<no net>] of U1 on F.Cu
+    @(126.4920 mm, 76.9620 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 76.9620 mm): Pad [<no net>] of U1 on F.Cu
+    @(124.7140 mm, 76.9620 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 76.9620 mm): Pad [<no net>] of U1 on B.Cu
+    @(126.4920 mm, 76.9620 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(125.2220 mm, 76.9620 mm): Pad [<no net>] of U1 on B.Cu
+    @(124.7140 mm, 76.9620 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 76.4540 mm): Polygon of U1 on F.Mask
+    @(112.9215 mm, 78.0865 mm): Track [Switch17] on F.Cu, length 1.5903 mm
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 76.4540 mm): Polygon of U1 on B.Mask
+    @(112.7760 mm, 75.6920 mm): Track [Switch9] on B.Cu, length 1.7961 mm
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 76.9620 mm): Pad [<no net>] of U1 on F.Cu
+    @(113.0300 mm, 76.9620 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 76.9620 mm): Pad [<no net>] of U1 on F.Cu
+    @(111.2520 mm, 76.9620 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 76.4540 mm): Polygon of U1 on F.Mask
+    @(112.9215 mm, 78.0865 mm): Track [Switch17] on F.Cu, length 1.5903 mm
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 76.9620 mm): Pad [<no net>] of U1 on B.Cu
+    @(113.0300 mm, 76.9620 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(112.5220 mm, 76.9620 mm): Pad [<no net>] of U1 on B.Cu
+    @(111.2520 mm, 76.9620 mm): PTH pad [<no net>] of U1
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 76.4540 mm): Polygon of U1 on B.Mask
+    @(112.7760 mm, 75.6920 mm): Track [Switch9] on B.Cu, length 1.7961 mm
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(123.9520 mm, 49.5300 mm): Polygon of U1 on B.Mask
+    @(125.2220 mm, 49.0220 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(123.9520 mm, 52.0700 mm): Polygon of U1 on B.Mask
+    @(125.2220 mm, 51.5620 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 51.0540 mm): Polygon of U1 on F.Mask
+    @(113.0300 mm, 51.5620 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(123.9520 mm, 54.6100 mm): Polygon of U1 on B.Mask
+    @(125.2220 mm, 54.1020 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 53.5940 mm): Polygon of U1 on F.Mask
+    @(113.0300 mm, 54.1020 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(123.9520 mm, 57.1500 mm): Polygon of U1 on B.Mask
+    @(125.2220 mm, 56.6420 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 56.1340 mm): Polygon of U1 on F.Mask
+    @(113.0300 mm, 56.6420 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(123.9520 mm, 59.6900 mm): Polygon of U1 on B.Mask
+    @(125.2220 mm, 59.1820 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(123.9520 mm, 62.2300 mm): Polygon of U1 on B.Mask
+    @(125.2220 mm, 61.7220 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(123.9520 mm, 64.7700 mm): Polygon of U1 on B.Mask
+    @(125.2220 mm, 64.2620 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(123.9520 mm, 67.3100 mm): Polygon of U1 on B.Mask
+    @(125.2220 mm, 66.8020 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(123.9520 mm, 69.8500 mm): Polygon of U1 on B.Mask
+    @(125.2220 mm, 69.3420 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(123.9520 mm, 72.3900 mm): Polygon of U1 on B.Mask
+    @(125.2220 mm, 71.8820 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(123.9520 mm, 74.9300 mm): Polygon of U1 on B.Mask
+    @(125.2220 mm, 74.4220 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(123.9520 mm, 77.4700 mm): Polygon of U1 on B.Mask
+    @(125.2220 mm, 76.9620 mm): Pad [<no net>] of U1 on B.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(123.9520 mm, 77.4700 mm): Polygon of U1 on F.Mask
+    @(125.2220 mm, 76.9620 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(123.9520 mm, 74.9300 mm): Polygon of U1 on F.Mask
+    @(125.2220 mm, 74.4220 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(123.9520 mm, 72.3900 mm): Polygon of U1 on F.Mask
+    @(125.2220 mm, 71.8820 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(123.9520 mm, 69.8500 mm): Polygon of U1 on F.Mask
+    @(125.2220 mm, 69.3420 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(123.9520 mm, 67.3100 mm): Polygon of U1 on F.Mask
+    @(125.2220 mm, 66.8020 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(123.9520 mm, 64.7700 mm): Polygon of U1 on F.Mask
+    @(125.2220 mm, 64.2620 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(123.9520 mm, 62.2300 mm): Polygon of U1 on F.Mask
+    @(125.2220 mm, 61.7220 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(123.9520 mm, 59.6900 mm): Polygon of U1 on F.Mask
+    @(125.2220 mm, 59.1820 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(123.9520 mm, 57.1500 mm): Polygon of U1 on F.Mask
+    @(125.2220 mm, 56.6420 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(123.9520 mm, 54.6100 mm): Polygon of U1 on F.Mask
+    @(125.2220 mm, 54.1020 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(123.9520 mm, 52.0700 mm): Polygon of U1 on F.Mask
+    @(125.2220 mm, 51.5620 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(123.9520 mm, 49.5300 mm): Polygon of U1 on F.Mask
+    @(125.2220 mm, 49.0220 mm): Pad [<no net>] of U1 on F.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(113.7920 mm, 48.5140 mm): Polygon of U1 on B.Mask
+    @(113.0300 mm, 49.0220 mm): Pad [<no net>] of U1 on B.Cu
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+    @(118.1100 mm, 54.1020 mm): PTH pad 3 [gnd] of U1
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+    @(118.1100 mm, 56.6420 mm): PTH pad 4 [gnd] of U1
+[starved_thermal]: Thermal relief connection to zone incomplete (layer B.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+    @(118.1100 mm, 54.1020 mm): PTH pad 3 [gnd] of U1
+[starved_thermal]: Thermal relief connection to zone incomplete (layer B.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+    @(118.1100 mm, 56.6420 mm): PTH pad 4 [gnd] of U1
+[starved_thermal]: Thermal relief connection to zone incomplete (layer B.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+    @(119.6340 mm, 51.5620 mm): PTH pad 23 [gnd] of U1
+[footprint_type_mismatch]: Footprint component type doesn't match footprint pads (expected 'SMD'; actual 'Through hole')
+    Local override; error
+    @(94.6404 mm, 24.5706 mm): Footprint POWER SW
+[shorting_items]: Items shorting two nets (nets  and reset)
+    Local override; error
+    @(83.1000 mm, 22.2000 mm): Pad 2 [<no net>] of RSW2 on B.Cu
+    @(87.3252 mm, 22.2504 mm): Track [reset] on F.Cu, length 0.7934 mm
+[shorting_items]: Items shorting two nets (nets reset and )
+    Local override; error
+    @(87.3252 mm, 22.2504 mm): Via [reset] on F.Cu - B.Cu
+    @(83.1000 mm, 22.2000 mm): Pad 2 [<no net>] of RSW2 on B.Cu
+[shorting_items]: Items shorting two nets (nets reset and )
+    Local override; error
+    @(87.3252 mm, 22.2504 mm): Via [reset] on F.Cu - B.Cu
+    @(83.1000 mm, 22.2000 mm): Pad 1 [<no net>] of RSW2 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(126.4920 mm, 49.0220 mm): PTH pad [<no net>] of U1
+    @(126.4920 mm, 49.0220 mm): PTH pad [<no net>] of U1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(126.4920 mm, 49.0220 mm): PTH pad [<no net>] of U1
+    @(125.2220 mm, 49.0220 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(126.4920 mm, 49.0220 mm): PTH pad [<no net>] of U1
+    @(125.2220 mm, 49.0220 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(126.4920 mm, 49.0220 mm): PTH pad [<no net>] of U1
+    @(125.2220 mm, 49.0220 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(126.4920 mm, 49.0220 mm): PTH pad [<no net>] of U1
+    @(125.2220 mm, 49.0220 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(125.2220 mm, 49.0220 mm): Pad [<no net>] of U1 on F.Cu
+    @(124.7140 mm, 49.0220 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(125.2220 mm, 49.0220 mm): Pad [<no net>] of U1 on B.Cu
+    @(124.7140 mm, 49.0220 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(113.0300 mm, 49.0220 mm): Pad [<no net>] of U1 on F.Cu
+    @(112.5220 mm, 49.0220 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(113.0300 mm, 49.0220 mm): Pad [<no net>] of U1 on B.Cu
+    @(112.5220 mm, 49.0220 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(112.5220 mm, 49.0220 mm): Pad [<no net>] of U1 on F.Cu
+    @(111.2520 mm, 49.0220 mm): PTH pad [<no net>] of U1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(112.5220 mm, 49.0220 mm): Pad [<no net>] of U1 on F.Cu
+    @(111.2520 mm, 49.0220 mm): PTH pad [<no net>] of U1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(112.5220 mm, 49.0220 mm): Pad [<no net>] of U1 on B.Cu
+    @(111.2520 mm, 49.0220 mm): PTH pad [<no net>] of U1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(112.5220 mm, 49.0220 mm): Pad [<no net>] of U1 on B.Cu
+    @(111.2520 mm, 49.0220 mm): PTH pad [<no net>] of U1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(111.2520 mm, 49.0220 mm): PTH pad [<no net>] of U1
+    @(111.2520 mm, 49.0220 mm): PTH pad [<no net>] of U1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(111.2520 mm, 49.0220 mm): PTH pad [<no net>] of U1
+    @(111.2520 mm, 49.0220 mm): PTH pad [<no net>] of U1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(126.4920 mm, 51.5620 mm): PTH pad [<no net>] of U1
+    @(125.2220 mm, 51.5620 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(126.4920 mm, 51.5620 mm): PTH pad [<no net>] of U1
+    @(125.2220 mm, 51.5620 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(125.2220 mm, 51.5620 mm): Pad [<no net>] of U1 on F.Cu
+    @(124.7140 mm, 51.5620 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(125.2220 mm, 51.5620 mm): Pad [<no net>] of U1 on B.Cu
+    @(124.7140 mm, 51.5620 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(113.0300 mm, 51.5620 mm): Pad [<no net>] of U1 on F.Cu
+    @(112.5220 mm, 51.5620 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(113.0300 mm, 51.5620 mm): Pad [<no net>] of U1 on B.Cu
+    @(112.5220 mm, 51.5620 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(112.5220 mm, 51.5620 mm): Pad [<no net>] of U1 on F.Cu
+    @(111.2520 mm, 51.5620 mm): PTH pad [<no net>] of U1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(112.5220 mm, 51.5620 mm): Pad [<no net>] of U1 on B.Cu
+    @(111.2520 mm, 51.5620 mm): PTH pad [<no net>] of U1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(126.4920 mm, 54.1020 mm): PTH pad [<no net>] of U1
+    @(125.2220 mm, 54.1020 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(126.4920 mm, 54.1020 mm): PTH pad [<no net>] of U1
+    @(125.2220 mm, 54.1020 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(125.2220 mm, 54.1020 mm): Pad [<no net>] of U1 on F.Cu
+    @(124.7140 mm, 54.1020 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(125.2220 mm, 54.1020 mm): Pad [<no net>] of U1 on B.Cu
+    @(124.7140 mm, 54.1020 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(113.0300 mm, 54.1020 mm): Pad [<no net>] of U1 on F.Cu
+    @(112.5220 mm, 54.1020 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(113.0300 mm, 54.1020 mm): Pad [<no net>] of U1 on B.Cu
+    @(112.5220 mm, 54.1020 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(112.5220 mm, 54.1020 mm): Pad [<no net>] of U1 on F.Cu
+    @(111.2520 mm, 54.1020 mm): PTH pad [<no net>] of U1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(112.5220 mm, 54.1020 mm): Pad [<no net>] of U1 on B.Cu
+    @(111.2520 mm, 54.1020 mm): PTH pad [<no net>] of U1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(126.4920 mm, 56.6420 mm): PTH pad [<no net>] of U1
+    @(125.2220 mm, 56.6420 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(126.4920 mm, 56.6420 mm): PTH pad [<no net>] of U1
+    @(125.2220 mm, 56.6420 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(125.2220 mm, 56.6420 mm): Pad [<no net>] of U1 on F.Cu
+    @(124.7140 mm, 56.6420 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(125.2220 mm, 56.6420 mm): Pad [<no net>] of U1 on B.Cu
+    @(124.7140 mm, 56.6420 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(113.0300 mm, 56.6420 mm): Pad [<no net>] of U1 on F.Cu
+    @(112.5220 mm, 56.6420 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(113.0300 mm, 56.6420 mm): Pad [<no net>] of U1 on B.Cu
+    @(112.5220 mm, 56.6420 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(112.5220 mm, 56.6420 mm): Pad [<no net>] of U1 on F.Cu
+    @(111.2520 mm, 56.6420 mm): PTH pad [<no net>] of U1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(112.5220 mm, 56.6420 mm): Pad [<no net>] of U1 on B.Cu
+    @(111.2520 mm, 56.6420 mm): PTH pad [<no net>] of U1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(126.4920 mm, 59.1820 mm): PTH pad [<no net>] of U1
+    @(125.2220 mm, 59.1820 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(126.4920 mm, 59.1820 mm): PTH pad [<no net>] of U1
+    @(125.2220 mm, 59.1820 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(125.2220 mm, 59.1820 mm): Pad [<no net>] of U1 on F.Cu
+    @(124.7140 mm, 59.1820 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(125.2220 mm, 59.1820 mm): Pad [<no net>] of U1 on B.Cu
+    @(124.7140 mm, 59.1820 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(113.0300 mm, 59.1820 mm): Pad [<no net>] of U1 on F.Cu
+    @(112.5220 mm, 59.1820 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(113.0300 mm, 59.1820 mm): Pad [<no net>] of U1 on B.Cu
+    @(112.5220 mm, 59.1820 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(112.5220 mm, 59.1820 mm): Pad [<no net>] of U1 on F.Cu
+    @(111.2520 mm, 59.1820 mm): PTH pad [<no net>] of U1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(112.5220 mm, 59.1820 mm): Pad [<no net>] of U1 on B.Cu
+    @(111.2520 mm, 59.1820 mm): PTH pad [<no net>] of U1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(126.4920 mm, 61.7220 mm): PTH pad [<no net>] of U1
+    @(125.2220 mm, 61.7220 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(126.4920 mm, 61.7220 mm): PTH pad [<no net>] of U1
+    @(125.2220 mm, 61.7220 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(125.2220 mm, 61.7220 mm): Pad [<no net>] of U1 on F.Cu
+    @(124.7140 mm, 61.7220 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(125.2220 mm, 61.7220 mm): Pad [<no net>] of U1 on B.Cu
+    @(124.7140 mm, 61.7220 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(113.0300 mm, 61.7220 mm): Pad [<no net>] of U1 on F.Cu
+    @(112.5220 mm, 61.7220 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(113.0300 mm, 61.7220 mm): Pad [<no net>] of U1 on B.Cu
+    @(112.5220 mm, 61.7220 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(112.5220 mm, 61.7220 mm): Pad [<no net>] of U1 on F.Cu
+    @(111.2520 mm, 61.7220 mm): PTH pad [<no net>] of U1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(112.5220 mm, 61.7220 mm): Pad [<no net>] of U1 on B.Cu
+    @(111.2520 mm, 61.7220 mm): PTH pad [<no net>] of U1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(126.4920 mm, 64.2620 mm): PTH pad [<no net>] of U1
+    @(125.2220 mm, 64.2620 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(126.4920 mm, 64.2620 mm): PTH pad [<no net>] of U1
+    @(125.2220 mm, 64.2620 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(125.2220 mm, 64.2620 mm): Pad [<no net>] of U1 on F.Cu
+    @(124.7140 mm, 64.2620 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(125.2220 mm, 64.2620 mm): Pad [<no net>] of U1 on B.Cu
+    @(124.7140 mm, 64.2620 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(113.0300 mm, 64.2620 mm): Pad [<no net>] of U1 on F.Cu
+    @(112.5220 mm, 64.2620 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(113.0300 mm, 64.2620 mm): Pad [<no net>] of U1 on B.Cu
+    @(112.5220 mm, 64.2620 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(112.5220 mm, 64.2620 mm): Pad [<no net>] of U1 on F.Cu
+    @(111.2520 mm, 64.2620 mm): PTH pad [<no net>] of U1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(112.5220 mm, 64.2620 mm): Pad [<no net>] of U1 on B.Cu
+    @(111.2520 mm, 64.2620 mm): PTH pad [<no net>] of U1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(126.4920 mm, 66.8020 mm): PTH pad [<no net>] of U1
+    @(125.2220 mm, 66.8020 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(126.4920 mm, 66.8020 mm): PTH pad [<no net>] of U1
+    @(125.2220 mm, 66.8020 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(125.2220 mm, 66.8020 mm): Pad [<no net>] of U1 on F.Cu
+    @(124.7140 mm, 66.8020 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(125.2220 mm, 66.8020 mm): Pad [<no net>] of U1 on B.Cu
+    @(124.7140 mm, 66.8020 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(113.0300 mm, 66.8020 mm): Pad [<no net>] of U1 on F.Cu
+    @(112.5220 mm, 66.8020 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(113.0300 mm, 66.8020 mm): Pad [<no net>] of U1 on B.Cu
+    @(112.5220 mm, 66.8020 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(112.5220 mm, 66.8020 mm): Pad [<no net>] of U1 on F.Cu
+    @(111.2520 mm, 66.8020 mm): PTH pad [<no net>] of U1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(112.5220 mm, 66.8020 mm): Pad [<no net>] of U1 on B.Cu
+    @(111.2520 mm, 66.8020 mm): PTH pad [<no net>] of U1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(126.4920 mm, 69.3420 mm): PTH pad [<no net>] of U1
+    @(125.2220 mm, 69.3420 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(126.4920 mm, 69.3420 mm): PTH pad [<no net>] of U1
+    @(125.2220 mm, 69.3420 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(125.2220 mm, 69.3420 mm): Pad [<no net>] of U1 on F.Cu
+    @(124.7140 mm, 69.3420 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(125.2220 mm, 69.3420 mm): Pad [<no net>] of U1 on B.Cu
+    @(124.7140 mm, 69.3420 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(113.0300 mm, 69.3420 mm): Pad [<no net>] of U1 on F.Cu
+    @(112.5220 mm, 69.3420 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(113.0300 mm, 69.3420 mm): Pad [<no net>] of U1 on B.Cu
+    @(112.5220 mm, 69.3420 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(112.5220 mm, 69.3420 mm): Pad [<no net>] of U1 on F.Cu
+    @(111.2520 mm, 69.3420 mm): PTH pad [<no net>] of U1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(112.5220 mm, 69.3420 mm): Pad [<no net>] of U1 on B.Cu
+    @(111.2520 mm, 69.3420 mm): PTH pad [<no net>] of U1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(126.4920 mm, 71.8820 mm): PTH pad [<no net>] of U1
+    @(125.2220 mm, 71.8820 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(126.4920 mm, 71.8820 mm): PTH pad [<no net>] of U1
+    @(125.2220 mm, 71.8820 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(125.2220 mm, 71.8820 mm): Pad [<no net>] of U1 on F.Cu
+    @(124.7140 mm, 71.8820 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(125.2220 mm, 71.8820 mm): Pad [<no net>] of U1 on B.Cu
+    @(124.7140 mm, 71.8820 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(113.0300 mm, 71.8820 mm): Pad [<no net>] of U1 on F.Cu
+    @(112.5220 mm, 71.8820 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(113.0300 mm, 71.8820 mm): Pad [<no net>] of U1 on B.Cu
+    @(112.5220 mm, 71.8820 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(112.5220 mm, 71.8820 mm): Pad [<no net>] of U1 on F.Cu
+    @(111.2520 mm, 71.8820 mm): PTH pad [<no net>] of U1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(112.5220 mm, 71.8820 mm): Pad [<no net>] of U1 on B.Cu
+    @(111.2520 mm, 71.8820 mm): PTH pad [<no net>] of U1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(126.4920 mm, 74.4220 mm): PTH pad [<no net>] of U1
+    @(125.2220 mm, 74.4220 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(126.4920 mm, 74.4220 mm): PTH pad [<no net>] of U1
+    @(125.2220 mm, 74.4220 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(125.2220 mm, 74.4220 mm): Pad [<no net>] of U1 on F.Cu
+    @(124.7140 mm, 74.4220 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(125.2220 mm, 74.4220 mm): Pad [<no net>] of U1 on B.Cu
+    @(124.7140 mm, 74.4220 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(113.0300 mm, 74.4220 mm): Pad [<no net>] of U1 on F.Cu
+    @(112.5220 mm, 74.4220 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(113.0300 mm, 74.4220 mm): Pad [<no net>] of U1 on B.Cu
+    @(112.5220 mm, 74.4220 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(112.5220 mm, 74.4220 mm): Pad [<no net>] of U1 on F.Cu
+    @(111.2520 mm, 74.4220 mm): PTH pad [<no net>] of U1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(112.5220 mm, 74.4220 mm): Pad [<no net>] of U1 on B.Cu
+    @(111.2520 mm, 74.4220 mm): PTH pad [<no net>] of U1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(126.4920 mm, 76.9620 mm): PTH pad [<no net>] of U1
+    @(125.2220 mm, 76.9620 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(126.4920 mm, 76.9620 mm): PTH pad [<no net>] of U1
+    @(125.2220 mm, 76.9620 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(125.2220 mm, 76.9620 mm): Pad [<no net>] of U1 on F.Cu
+    @(124.7140 mm, 76.9620 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(125.2220 mm, 76.9620 mm): Pad [<no net>] of U1 on B.Cu
+    @(124.7140 mm, 76.9620 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(113.0300 mm, 76.9620 mm): Pad [<no net>] of U1 on F.Cu
+    @(112.5220 mm, 76.9620 mm): Pad [<no net>] of U1 on F.Cu
+[clearance]: Clearance violation (pad clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(113.0300 mm, 76.9620 mm): Pad [<no net>] of U1 on B.Cu
+    @(112.5220 mm, 76.9620 mm): Pad [<no net>] of U1 on B.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(112.5220 mm, 76.9620 mm): Pad [<no net>] of U1 on F.Cu
+    @(111.2520 mm, 76.9620 mm): PTH pad [<no net>] of U1
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: netclass 'Default'; error
+    @(112.5220 mm, 76.9620 mm): Pad [<no net>] of U1 on B.Cu
+    @(111.2520 mm, 76.9620 mm): PTH pad [<no net>] of U1
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.1752 mm)
+    Rule: board setup constraints hole; error
+    @(83.1000 mm, 22.2000 mm): Pad 2 [<no net>] of RSW2 on B.Cu
+    @(87.3252 mm, 22.2504 mm): Via [reset] on F.Cu - B.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2500 mm; actual 0.1752 mm)
+    Rule: board setup constraints hole; error
+    @(83.1000 mm, 22.2000 mm): Pad 1 [<no net>] of RSW2 on F.Cu
+    @(87.3252 mm, 22.2504 mm): Via [reset] on F.Cu - B.Cu
+[lib_footprint_issues]: The current configuration does not include the footprint library 'kbd'.
+    Local override; warning
+    @(126.4920 mm, 45.9740 mm): Footprint B+
+[lib_footprint_issues]: The current configuration does not include the footprint library 'kbd'.
+    Local override; warning
+    @(111.2520 mm, 45.9740 mm): Footprint B-
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Kailh'.
+    Local override; warning
+    @(123.6980 mm, 82.7500 mm): Footprint J2
+[lib_footprint_issues]: The current configuration does not include the footprint library '* duckyb-collection'.
+    Local override; warning
+    @(118.8720 mm, 62.9920 mm): Footprint U1
+[lib_footprint_issues]: The current configuration does not include the footprint library 'Kailh'.
+    Local override; warning
+    @(94.6404 mm, 24.5706 mm): Footprint POWER SW
+[lib_footprint_mismatch]: Footprint 'owl' does not match copy in library 'half-swept'.
+    Local override; warning
+    @(83.0000 mm, 62.0000 mm): Footprint G***
+[lib_footprint_issues]: The current configuration does not include the footprint library '* duckyb-collection'.
+    Local override; warning
+    @(84.8000 mm, 22.2000 mm): Footprint RSW2
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(20.6259 mm, 38.0000 mm): Segment on Edge.Cuts
+    @(27.8820 mm, 37.9970 mm): Polygon of G*** on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(38.4554 mm, 25.8022 mm): Segment on Edge.Cuts
+    @(44.9000 mm, 25.8050 mm): Polygon of G*** on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(38.4554 mm, 25.8022 mm): Segment on Edge.Cuts
+    @(51.2500 mm, 25.8050 mm): Polygon of G*** on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(20.7754 mm, 88.0845 mm): Segment on Edge.Cuts
+    @(51.3770 mm, 88.0350 mm): Polygon of G*** on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(126.3268 mm, 83.1366 mm): Segment on Edge.Cuts
+    @(121.8620 mm, 90.8290 mm): Polygon of G*** on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(34.5438 mm, 36.0638 mm): Arc on Edge.Cuts
+    @(36.4757 mm, 36.4518 mm): Polygon of G*** on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(20.6259 mm, 38.0000 mm): Segment on Edge.Cuts
+    @(24.6874 mm, 37.8579 mm): Polygon of G*** on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(38.4554 mm, 25.8022 mm): Segment on Edge.Cuts
+    @(43.8139 mm, 25.6930 mm): Polygon of G*** on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(42.2669 mm, 231.1884 mm): Arc on Edge.Cuts
+    @(62.3581 mm, 88.3715 mm): Polygon of G*** on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(60.1978 mm, 88.3077 mm): Curve on Edge.Cuts
+    @(58.0170 mm, 88.0672 mm): Polygon of G*** on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(97.7390 mm, 98.4462 mm): Curve on Edge.Cuts
+    @(91.5412 mm, 95.5729 mm): Polygon of G*** on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(126.3268 mm, 83.1366 mm): Segment on Edge.Cuts
+    @(120.6238 mm, 91.9017 mm): Polygon of G*** on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(60.1978 mm, 88.3077 mm): Curve on Edge.Cuts
+    @(58.8398 mm, 88.0324 mm): Polygon of G*** on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(60.1978 mm, 88.3077 mm): Curve on Edge.Cuts
+    @(59.5050 mm, 88.0920 mm): Polygon of G*** on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(126.3268 mm, 83.1366 mm): Segment on Edge.Cuts
+    @(123.2590 mm, 87.8055 mm): Polygon of G*** on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(52.2730 mm, 23.8210 mm): Arc on Edge.Cuts
+    @(53.0551 mm, 25.6828 mm): Polygon of G*** on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(126.3268 mm, 83.1366 mm): Segment on Edge.Cuts
+    @(125.9418 mm, 83.4070 mm): Polygon of G*** on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(20.6259 mm, 38.0000 mm): Segment on Edge.Cuts
+    @(33.2281 mm, 37.5232 mm): Polygon of G*** on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(34.5438 mm, 36.0638 mm): Arc on Edge.Cuts
+    @(34.4637 mm, 37.4677 mm): Polygon of G*** on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(38.4554 mm, 25.8022 mm): Segment on Edge.Cuts
+    @(49.8072 mm, 24.6386 mm): Polygon of G*** on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(38.4554 mm, 25.8022 mm): Segment on Edge.Cuts
+    @(53.0612 mm, 24.9181 mm): Polygon of G*** on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(126.3268 mm, 83.1366 mm): Segment on Edge.Cuts
+    @(125.6801 mm, 84.3749 mm): Polygon of G*** on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(42.2669 mm, 231.1884 mm): Arc on Edge.Cuts
+    @(67.7581 mm, 88.9557 mm): Polygon of G*** on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(20.6259 mm, 38.0000 mm): Segment on Edge.Cuts
+    @(25.5881 mm, 35.7846 mm): Polygon of G*** on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(20.7754 mm, 88.0845 mm): Segment on Edge.Cuts
+    @(31.0279 mm, 83.8904 mm): Polygon of G*** on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(38.4554 mm, 25.8022 mm): Segment on Edge.Cuts
+    @(47.5187 mm, 25.0430 mm): Polygon of G*** on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(20.6259 mm, 38.0000 mm): Segment on Edge.Cuts
+    @(29.1851 mm, 30.6783 mm): Polygon of G*** on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(97.7390 mm, 98.4462 mm): Curve on Edge.Cuts
+    @(76.8059 mm, 30.2834 mm): Polygon of G*** on F.Silkscreen
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(15.2400 mm, 15.2400 mm): Zone [gnd] on F.Cu and B.Cu, priority 0
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
